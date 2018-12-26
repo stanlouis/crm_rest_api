@@ -1,0 +1,17 @@
+{
+  "name": "crm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Stanley Louis",
+  "scripts": {
+    "start": "nodemon ./index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
